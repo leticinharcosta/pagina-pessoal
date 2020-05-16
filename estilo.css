@@ -1,0 +1,31 @@
+.cabecalho {
+    text-align: center ; 
+    color: yellow; 
+    background-color: black;
+}
+
+.Imagens {
+    width: 500px;
+    height: 200px;
+    float: left;
+}
+
+.texto {
+    display: inline-block;
+    font-size: 30px;
+    font-style: oblique;
+    border-style: solid;
+    height: 200px;
+    text-align: center;
+}
+
+.secao1 {
+    margin: 20px;
+}
+
+.secao2 {
+    background-color: bisque;
+}
+
+.secao3 {
+}
